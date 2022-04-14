@@ -8,4 +8,4 @@
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="42px" height="41px"></a>
 
 ## Webinar
-> <a href="https://www.youtube.com/watch?v=MLTRHc5dk6s" title="Youtube"><img src="./icons/javascript.svg" alt="Youtube logo" width="41px" height="41px"></a>
+> <a href="https://www.youtube.com/watch?v=MLTRHc5dk6s" title="Youtube"><img src="./icons/youtube.png" alt="Youtube logo" width="41px" height="41px"></a>
