@@ -1,5 +1,5 @@
 # mochatest
-Introduction to testing with Mocha and Chai
+## Introduction to testing with Mocha and Chai
 
 # Tech Stack:
 > <a href="https://javascript.info/" title="JavaScript"><img src="./icons/javascript.svg" alt="JavaScript logo" width="41px" height="41px"></a>
